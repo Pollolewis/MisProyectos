@@ -2,3 +2,4 @@ Hola Mundo!
 Añado esta segunda línea a mi documento
 Añado una tercera línea a este documento
 He regresado a master y edito esta cuarta línea
+Editando la cuarta línea desde branch1
